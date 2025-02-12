@@ -1,6 +1,6 @@
 # client_server
 
-![Client-Server Architecture](assets/architecture.png)
+![Client-Server Architecture](https://github.com/sasit622/client_server/blob/7ed75d3e0d5c5045ddd03881212fd14379179c25/Output.png)
 
 📌 Overview
 This project demonstrates a Client-Server architecture using Java with a connected database (MySQL/PostgreSQL). The server handles client requests, processes data, and communicates with the database, while the client interacts with the server for data operations.
